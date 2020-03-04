@@ -2,36 +2,38 @@
 
 <html>
 	<head>
-	<title >php</title>
+	<title >Hakkýnda</title>
 	<link rel="stylesheet" href="style.css">
 	</head>
 	<body >
 	
 		<table align="center" >
 			<tr>
-				<th colspan="3" height="40" >PERSONEL</th>			
+				<th colspan="2" height="40" >PERSONEL</th>			
 			</tr>
 			<tr>
 				<td  >Name</td>
-				<td colspan="2" > <input type="text" name="name"  > </td>				
+				<td  > <input type="text" name="name"  > </td>				
 			</tr>
 			<tr>
 				<td >Password</td>
-				<td colspan="2" ><input type="password" name="password" ></td>				
+				<td  ><input type="password" name="password" ></td>				
 			</tr>
 			<tr>
-				<td colspan="2"><input type="radio" name="gender" value="erkek" checked >Male</td>
-				<td ><input type="radio" name="gender" value="kadýn"  >female</td>
+				<td colspan="2"><input type="radio" name="gender" value="erkek"  >Male
+								<input type="radio" name="gender" value="kadin" checked >female</td>
 				
 			</tr>
-			<tr>
-				<td  ><input type="checkbox" name="abc" value="a"  >a</td>
-				<td  ><input type="checkbox" name="abc" value="b" checked >b</td>
-				<td  ><input type="checkbox" name="abc" value="c"  >c</td>
+			<tr ><td colspan="2">
+				<input type="checkbox" name="abc" value="a"  >a
+				<input type="checkbox" name="abc" value="b" >b
+				<input type="checkbox" name="abc" value="c"  >c
+				<input type="checkbox" name="abc" value="non" checked >non
+		
 			</tr>
 			<tr>
-				<td colspan="3"> 
-					<select name="city">
+				<td colspan="2"> 
+					<select name="city">						
 					<option value="00" selected>----city----</option>
 					<option value="Istanbul">istanbul</option>
 					<option value="Sakarya" >sakarya</option>
@@ -41,11 +43,11 @@
 			</tr>
 			<tr>
 				<td >Addres</td>
-				<td  colspan="2"><textarea rows="5" cols="20" name="addres" ></textarea></td>
+				<td  ><textarea rows="5" cols="20" name="addres" ></textarea></td>
 				
 			</tr>
 			<tr >
-				<td colspan="3" class="slctd"><input type="submit" value="submit"></td>
+				<td colspan="2"><input type="submit" value="submit"></td>
 				
 			</tr>
 

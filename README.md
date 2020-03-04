@@ -1,3 +1,5 @@
-Hello PHP!
-Ýlk PHP denemem , form ve döngüler ile yazýlmýþtýr.Giris yapmak için index.php'ye girmeniz yeterlidir.
-27.02.2020
+# Hello **PHP**!
+---
+Ýlk **PHP** denemem , form ve döngüler ile yazýlmýþtýr.
+
+27.02.2020 
