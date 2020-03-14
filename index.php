@@ -2,12 +2,12 @@
 
 <html>
 	<head>
-	<title >Hakkýnda</title>
+	<title >Hakkinda</title>
 	<link rel="stylesheet" href="style.css">
 	</head>
-	<body >
+	<body>
 	
-		<table align="center" >
+		<table align="center" border="1">
 			<tr>
 				<th colspan="2" height="40" >PERSONEL</th>			
 			</tr>
@@ -28,6 +28,11 @@
 				<input type="checkbox" name="abc" value="a"  >a
 				<input type="checkbox" name="abc" value="b" >b
 				<input type="checkbox" name="abc" value="c"  >c
+				<?php
+					
+				
+				
+				?>
 				<input type="checkbox" name="abc" value="non" checked >non
 		
 			</tr>
