@@ -1,5 +1,6 @@
 # Hello PHP
 İlk ***PHP*** denemem , form ve döngüler ile yazılmıştır.Kod incelemesi yaparak bana destek olabilirsiniz.Aşağıdaki adreslerden bana temasta bulunun.
+> Projeyi çalıştırmak için ***[index.php](/index.php)***'yi derlemeniz yeterlidir.
 ***
 ***Alihan SARAÇ***
 
